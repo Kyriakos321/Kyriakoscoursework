@@ -1,7 +1,13 @@
 
-# Data Structures and algorithms coursework
-kyriakos coursework
-I confirm that the code contained in this file(other than provided or authorized) is all my own work and has not been submitted elsewhere in fullfillment of this or any other award
+# Data Structures and Algorithms Coursework
+
+*I confirm that the code contained in this file (other than that provided or authorised) is all my own work and has not been submitted elsewhere in fulfillment of this or any other award.*
+
+## Your Details
+
+### Name
 Kyriakos Fournarakis
+### Course
 Software Development (computer games)
-16/07/2022
+
+**Date** : 16/07/2022 
