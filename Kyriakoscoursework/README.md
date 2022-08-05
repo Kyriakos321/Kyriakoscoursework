@@ -5,8 +5,8 @@
 ## Your Details
 
 ### Name
-Kyriakos
+Kyriakos Fournarakis
 ### Course
-BSC Computing
+Software Development (computer games)
 
 **Date** : 16/07/2022 
